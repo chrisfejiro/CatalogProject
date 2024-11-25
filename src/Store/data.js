@@ -2,7 +2,7 @@ const projectList = [
   {
     imageUrl: "https://picsum.photos/200/300/",
     title: "TaskOPedia",
-    redirectUrl: "https://react-taskopedia.azurewebsites.net/",
+    redirectUrl: "https://",
     description: "Learn basic fundamentals of React by building a simple Page.",
     gitHubUrl: "https://github.com/",
     youtubeUrl: "https://youtube.com/",
@@ -16,7 +16,7 @@ const projectList = [
   {
     imageUrl: "https://picsum.photos/200/302",
     title: "CountOPedia",
-    redirectUrl: "https://react-countopedia.azurewebsites.net/",
+    redirectUrl: "https:",
     description: "Build a simple Game to Attack or Defence and get points.",
     gitHubUrl: "https://github.com/",
     youtubeUrl: "https://youtube.com/",
